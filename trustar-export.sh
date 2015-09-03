@@ -2,6 +2,8 @@
 # Copyright (c) 2015, TruSTAR Corporation Corporation. All rights reserved.
 # See LICENSE.txt for full terms.
 
+# Set STATION_USERNAME and STATION_PASSWORD environment variables before running this script
+
 REPORTS_ENDPOINT="https://station.trustartechnology.com:8443/services/incident/reports"
 AUTH_ENDPOINT="https://station.trustartechnology.com:8443/login.html"
 
