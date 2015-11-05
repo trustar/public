@@ -1,8 +1,8 @@
 # Pulsar
 
-Pulsar related content...
+For Pulsar, we are working with an end-to-end encrypted communications technology called Kodex, developed by our friends at [Kryptnostic](https://www.kryptnostic.js.com).
 
-Once you're logged in to the Station, head to the Pulsar tab:
+To get started, log into the Station and head to the Pulsar tab:
 
 ![Click Pulsar](http://dropsinn.s3.amazonaws.com/TruStar.png)
 
@@ -24,8 +24,6 @@ If your Alias is already taken we will let you know:
 
 ![Alias taken](http://dropsinn.s3.amazonaws.com/TruStar_and_1__zsh.png)
 
-TODO: Image here
-
 If not then you should be good to go. After setup is complete you will be shown the log-in window.
 
 ## Step 2
@@ -43,3 +41,5 @@ Now you you're all set.
 ![Kodex](http://dropsinn.s3.amazonaws.com/TruStar_and_pulsar_md______dev_trustar_trustar-public__-_VIM.png)
 
 ![Conversations](http://dropsinn.s3.amazonaws.com/TruStar_and_pulsar_md.png)
+
+For any questions or issues, please [contact us](mailto:support@trustar.co) and let us know!
