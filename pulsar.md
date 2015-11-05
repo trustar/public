@@ -1,6 +1,6 @@
 # Pulsar
 
-For Pulsar, we are working with an end-to-end encrypted communications technology called Kodex, developed by our friends at [Kryptnostic](https://www.kryptnostic.js.com).
+For Pulsar, we are working with an end-to-end encrypted communications technology called Kodex, developed by our friends at [Kryptnostic](https://www.kryptnostic.com).
 
 To get started, log into the Station and head to the Pulsar tab:
 
