@@ -8,7 +8,7 @@ Once you're logged in to the Station, head to the Pulsar tab:
 
 ## Step 1
 
-**NOTE:** If you have already set up your Alias, you can skip to Step 2.
+**NOTE:** If you already set up your Alias, you can skip to Step 2.
 
 Here you will see a form to help you set up your Pulsar account. All you need is an Alias and a password. The password can be the same password you already use to log into the Station, or something new.
 
@@ -20,13 +20,13 @@ After you've chosen an Alias enter your password and hit "Submit."
 
 **NOTE:** Aliases must be unique.
 
-If you're Alias is already taken we will let you know:
+If your Alias is already taken we will let you know:
 
 ![Alias taken](http://dropsinn.s3.amazonaws.com/TruStar_and_1__zsh.png)
 
 TODO: Image here
 
-If not then you should be good to go. After setup is complete you will be shown the log in window.
+If not then you should be good to go. After setup is complete you will be shown the log-in window.
 
 ## Step 2
 
