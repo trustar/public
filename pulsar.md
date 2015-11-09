@@ -28,7 +28,7 @@ If not then you should be good to go. After setup is complete you will be shown 
 
 ## Step 2
 
-Now you should see the Kodex window prompting you to log in with your Alias. Your Alias is always visible in the upper right-hand corner:
+Now you should see the Kodex window prompting you to log in with your Email - NOTE please enter your Alias where it says email - NOT your email. Your Alias is always visible in the upper right-hand corner:
 
 ![Kodex Window](http://dropsinn.s3.amazonaws.com/TruStar-2.png)
 
