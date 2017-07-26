@@ -30,7 +30,7 @@ Definitions. The following definitions shall apply to the Agreement:
 
 "**Member Published Data**" means any data or information, whether anonymized or not, which is uploaded to the TruSTAR servers. Data is uploaded to the TruSTAR servers when you or a Member submits a report via the ‘Submit’ button. For clarity, Member Published Data will not be considered Confidential Information. 
 
- "**Person**" means an individual, a corporation, partnership, limited liability company, association, trust, unincorporated organization, or other legal entity or organization.
+"**Person**" means an individual, a corporation, partnership, limited liability company, association, trust, unincorporated organization, or other legal entity or organization.
 
 "**Prior Works**" means Provider’s prior knowledge, including works of authorship, the System, ideas, concepts, methodologies, and processes developed or acquired in connection with Provider’s performance of professional services without Member’s assistance before the Effective Date. 
 
@@ -44,17 +44,13 @@ Definitions. The following definitions shall apply to the Agreement:
 
 1. Description of Services.
 
-    1. Services. This Agreement shall apply only to the services offered by the System and those included in this Agreement. In the event You desire Provider to provide additional services, (i.e., services other than the Services), including, without limitation, custom software development, enhanced implementation or integration, or the like, a separate, written agreement will be required. 
+..1. Services. This Agreement shall apply only to the services offered by the System and those included in this Agreement. In the event You desire Provider to provide additional services, (i.e., services other than the Services), including, without limitation, custom software development, enhanced implementation or integration, or the like, a separate, written agreement will be required. 
 
-    2. Set up. You are solely responsible for all hardware, network and other equipment required for implementation and use of the Services. 
-
-    3. Service Level. 
-
-        1. Availability
-
-            1. Uptime
-
-                1. Provider shall use commercially reasonable efforts to make the Services available 99.9% of the time on a 24x7 (twenty-‐four hours per day, seven days per week) basis during the Term ("Uptime Commitment").
+..2. Set up. You are solely responsible for all hardware, network and other equipment required for implementation and use of the Services. 
+..3. Service Level. 
+...1. Availability
+....1. Uptime
+.....1. Provider shall use commercially reasonable efforts to make the Services available 99.9% of the time on a 24x7 (twenty-‐four hours per day, seven days per week) basis during the Term ("Uptime Commitment").
 
 2. Monitoring. Provider reserves the right to reasonably restrict Member’s and/or its Authorized Users’ ability to access the System if Member’s and/or its Authorized Users’ activity is adversely impacting the performance of the Services for other subscribers. Provider agrees to notify Member in cases where it restricts such use and use good faith efforts to determine an appropriate alternative or work-around solution
 
