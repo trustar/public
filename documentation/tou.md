@@ -8,39 +8,40 @@ If You are using the Service on behalf of an entity, You represent and warrant t
 
 **Purpose.** You hereby agree that, notwithstanding any other provision of this Agreement or any related Agreement, the purpose of the Services to be undertaken by Provider under this Agreement is to receive Member Published Data, as it is uploaded, whether anonymized or not, to TruSTAR’s servers in order to develop analysis, write reports, and share tactical information with other TruSTAR Members, in order to supply TruSTAR Members with information about cyber threats, attack trends, and mitigation actions. 
 
-Definitions. The following definitions shall apply to the Agreement:
+**Definitions.** 
+The following definitions shall apply to the Agreement:
 
-"**Agreement**" the terms and conditions of this TOU, as well as the terms and conditions contained in any related agreements.
+* "**Agreement**" the terms and conditions of this TOU, as well as the terms and conditions contained in any related agreements.
 
-"**Authorized User**" means any employee, officer, provider or agent of a TruSTAR Member or other sponsoring organization who is authorized hereunder to access the System and otherwise receive the Services.
+*  "**Authorized User**" means any employee, officer, provider or agent of a TruSTAR Member or other sponsoring organization who is authorized hereunder to access the System and otherwise receive the Services.
 
- "**Confidential Information**" means all data disclosed by one party (“Discloser”) to the other party (“Recipient”), whether before or after the execution of this Agreement, in any form whatsoever, that is Member Data, or is information specifically marked as “confidential” or with similar designation. For clarity, Member Published Data will not be considered Confidential Information.
+*  "**Confidential Information**" means all data disclosed by one party (“Discloser”) to the other party (“Recipient”), whether before or after the execution of this Agreement, in any form whatsoever, that is Member Data, or is information specifically marked as “confidential” or with similar designation. For clarity, Member Published Data will not be considered Confidential Information.
 
-**"Disaster"** means one or more of the following: (i) loss of the Services or the System used to provide the Services; (ii) destruction or loss of a component that prevents Provider from providing the Services; or (iii) an event or potential event, natural or otherwise, which threatens to prevent the provision of the Service from the primary data center. 
+*  "**Disaster**" means one or more of the following: (i) loss of the Services or the System used to provide the Services; (ii) destruction or loss of a component that prevents Provider from providing the Services; or (iii) an event or potential event, natural or otherwise, which threatens to prevent the provision of the Service from the primary data center. 
 
-"**Documentation**" means user and technical manuals and other documentation provided to Member hereunder describing the Services, the System, and their respective features, functionality, requirements and specifications. 
+*  "**Documentation**" means user and technical manuals and other documentation provided to Member hereunder describing the Services, the System, and their respective features, functionality, requirements and specifications. 
 
-**"Insolvency Event"** means that a party becomes insolvent, makes a general assignment for the benefit of creditors, files a voluntary petition of bankruptcy, suffers or permits the appointment of a receiver for its business or assets, or becomes subject to any proceeding under any bankruptcy or insolvency law, whether domestic or foreign, or has wound up or liquidated, voluntarily or otherwise. 
+*  **"Insolvency Event"** means that a party becomes insolvent, makes a general assignment for the benefit of creditors, files a voluntary petition of bankruptcy, suffers or permits the appointment of a receiver for its business or assets, or becomes subject to any proceeding under any bankruptcy or insolvency law, whether domestic or foreign, or has wound up or liquidated, voluntarily or otherwise. 
 
-**"Laws"** means applicable laws, rules, regulations, directives, ordinances, orders, governmental requirements or statutes.
+*  **"Laws"** means applicable laws, rules, regulations, directives, ordinances, orders, governmental requirements or statutes.
 
-**"Member" **means any person, business, partnership, corporation, or any other type of organization or legal entity, whether incorporated or not, who has a currently existing, executed an MSA with TruSTAR Inc. 
+*  **"Member" **means any person, business, partnership, corporation, or any other type of organization or legal entity, whether incorporated or not, who has a currently existing, executed an MSA with TruSTAR Inc. 
 
-"**Member Data**" means any data or information in your possession or the possession of the Member and/or its Authorized Users prior to being uploaded to TruSTAR’s servers.
+*  "**Member Data**" means any data or information in your possession or the possession of the Member and/or its Authorized Users prior to being uploaded to TruSTAR’s servers.
 
-"**Member Published Data**" means any data or information, whether anonymized or not, which is uploaded to the TruSTAR servers. Data is uploaded to the TruSTAR servers when you or a Member submits a report via the ‘Submit’ button. For clarity, Member Published Data will not be considered Confidential Information. 
+*  "**Member Published Data**" means any data or information, whether anonymized or not, which is uploaded to the TruSTAR servers. Data is uploaded to the TruSTAR servers when you or a Member submits a report via the ‘Submit’ button. For clarity, Member Published Data will not be considered Confidential Information. 
 
-"**Person**" means an individual, a corporation, partnership, limited liability company, association, trust, unincorporated organization, or other legal entity or organization.
+*  "**Person**" means an individual, a corporation, partnership, limited liability company, association, trust, unincorporated organization, or other legal entity or organization.
 
-"**Prior Works**" means Provider’s prior knowledge, including works of authorship, the System, ideas, concepts, methodologies, and processes developed or acquired in connection with Provider’s performance of professional services without Member’s assistance before the Effective Date. 
+*  "**Prior Works**" means Provider’s prior knowledge, including works of authorship, the System, ideas, concepts, methodologies, and processes developed or acquired in connection with Provider’s performance of professional services without Member’s assistance before the Effective Date. 
 
-**"Security Breach"** means any actual or reasonably suspected misuse, compromise, or unauthorized access or disclosure of the System or any data uploaded to the System.
+*  **"Security Breach"** means any actual or reasonably suspected misuse, compromise, or unauthorized access or disclosure of the System or any data uploaded to the System.
 
-"**Service**" or “**Services**” means access to, and use of, the System, together with any optional, related services provided to Member pursuant to the Agreement or applicable Statement of Work.
+*  "**Service**" or “**Services**” means access to, and use of, the System, together with any optional, related services provided to Member pursuant to the Agreement or applicable Statement of Work.
 
-"**Statement of Work**" means any SOW incorporated into this MSA that references the foregoing.
+*  "**Statement of Work**" means any SOW incorporated into this MSA that references the foregoing.
 
-"**the System**" means the computer program or programs compromising TruSTAR’s product offering including all software and user tools, the means of accessing the product provided to Member by Provider, new releases, updates, upgrades, modifications, patches and maintenance thereto. 
+*  "**the System**" means the computer program or programs compromising TruSTAR’s product offering including all software and user tools, the means of accessing the product provided to Member by Provider, new releases, updates, upgrades, modifications, patches and maintenance thereto. 
 
 1. **Description of Services.**
    1. Services. This Agreement shall apply only to the services offered by the System and those included in this Agreement. In the event You desire Provider to provide additional services, (i.e., services other than the Services), including, without limitation, custom software development, enhanced implementation or integration, or the like, a separate, written agreement will be required.
