@@ -1,6 +1,9 @@
 ![image alt text](trustar.jpg)
 
-**TERMS OF USE (TOU) FOR TruSTAR PRODUCTS OFFERING**
+<center>**TERMS OF USE (TOU) FOR TruSTAR PRODUCTS OFFERING**</center>
+
+<center>Centered text</center>
+
 
 TruSTAR TECHNOLOGY, INC., A DELAWARE CORPORATION (TruSTAR)** **IS WILLING TO GRANT YOU (AUTHORIZED USER) ACCESS TO THE TruSTAR PRODUCT OFFERING (THE SYSTEM) ONLY UPON THE CONDITION THAT YOU ACCEPT ALL THE TERMS CONTAINED HEREIN. BY CLICKING "ACCEPT" YOU CONSENT AND AGREE TO ALL THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO (OR CANNOT COMPLY WITH) ALL OF THE TERMS OF THIS AGREEMENT, THEN YOU MUST CLICK “DECLINE” AND YOU WILL NOT BE AUTHORIZED ACCESS TO USE THE TruSTAR SYSTEM. 
 
@@ -25,7 +28,7 @@ The following definitions shall apply to the Agreement:
 
 *  **"Laws"** means applicable laws, rules, regulations, directives, ordinances, orders, governmental requirements or statutes.
 
-*  **"Member" **means any person, business, partnership, corporation, or any other type of organization or legal entity, whether incorporated or not, who has a currently existing, executed an MSA with TruSTAR Inc. 
+*  **"Member"** means any person, business, partnership, corporation, or any other type of organization or legal entity, whether incorporated or not, who has a currently existing, executed an MSA with TruSTAR Inc. 
 
 *  "**Member Data**" means any data or information in your possession or the possession of the Member and/or its Authorized Users prior to being uploaded to TruSTAR’s servers.
 
